@@ -20,3 +20,6 @@ curl https://github.com/Dimoscore/Site-Marvel
 ```
 curl -- include https://github.com/Dimoscore/Site-Marvel
 ```
+
+# Références de stage
+* Article : https://stateful.com/blog/github-search-api
